@@ -79,3 +79,5 @@ gradle/
 gradlew
 gradlew.bat
 unused.txt
+/mvnw
+/mvnw.cmd
